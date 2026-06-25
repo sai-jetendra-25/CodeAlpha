@@ -1,5 +1,4 @@
 # 🎟️ Event Registration System
-
 A lightweight Flask web application for managing events, user sign-ups, and registrations — with a built-in browser UI and a RESTful JSON API.
 
 ---
